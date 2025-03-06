@@ -11,6 +11,8 @@ nav {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    position: fixed;
+    width: 100%;
 }
 
 nav img {
@@ -55,14 +57,22 @@ nav img:hover {
     transition: 0.3s;
 }
 
+#sous-nav {
+    height: 80px;
+}
+
 section {
-    min-height: 400px;
+    min-height: 500px;
     display: flex;
     justify-content: center;
     gap: 10%;
     align-items: center;
     flex-wrap: wrap;
     border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+#s3 {
+    padding-bottom: 100px;
 }
 
 .card {
