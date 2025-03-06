@@ -77,3 +77,9 @@ section {
     height: 160px;
     width: 220px;
 }
+
+footer {
+    background-color: black;
+    height: 100px;
+    color: white;
+}
