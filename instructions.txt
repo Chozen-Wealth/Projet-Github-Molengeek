@@ -1,0 +1,25 @@
+OK  Site de 1 page
+OK Connecté à GitHub
+OK Création d'un Repo
+OK Création de 4 branches
+OK    main
+OK    content
+OK    nav
+OK    footer
+ merge les branches à main
+
+ nav ancrée
+OK 1 page
+ ancres pour chaque section
+ 3 sections
+     2 cards centré
+     css perso
+
+ minimum 20 commit total
+
+OK Ajouter LeBigSky au projet
+
+ navigation bien fonctionnelle
+
+ Bonus : poster le Site
+avec GitHub

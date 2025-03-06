@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: gray;
 }
 
 nav {
@@ -15,7 +16,7 @@ nav img {
     height: 30px;
     margin-top: 15px;
     margin-bottom: 10px;
-    transition: 0.5s;
+    transition: 0.2s;
 }
 
 nav img:hover {
@@ -31,7 +32,6 @@ nav img:hover {
 .nav-bottom ul {
     display: flex;
     justify-content: center;
-    gap: 50px;
     list-style: none;
     align-items: center;
     margin: 0;
@@ -43,6 +43,9 @@ nav img:hover {
     font-family: monospace;
     color: white;
     text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 6px 20px;
 }
 
 .nav-bottom ul li a:hover {
