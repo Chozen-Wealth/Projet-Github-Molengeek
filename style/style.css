@@ -79,7 +79,11 @@ section {
 }
 
 footer {
+    font-family: monospace;
     background-color: black;
     height: 100px;
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
