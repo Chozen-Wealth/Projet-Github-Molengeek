@@ -1,3 +1,6 @@
+PROJET FINI
+-------------
+
 OK  Site de 1 page
 OK Connecté à GitHub
 OK Création d'un Repo
@@ -15,11 +18,11 @@ OK 3 sections
 OK     2 cards centré
 OK     css perso
 
- minimum 20 commit total
+OK minimum 20 commit total
 
 OK Ajouter LeBigSky au projet
 
 OK navigation bien fonctionnelle
 
- Bonus : poster le Site
+OK Bonus : poster le Site
 avec GitHub
