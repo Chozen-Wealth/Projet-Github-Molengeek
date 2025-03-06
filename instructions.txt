@@ -6,20 +6,20 @@ OK    main
 OK    content
 OK    nav
 OK    footer
- merge les branches à main
+OK merge les branches à main
 
- nav ancrée
+OK nav ancrée
 OK 1 page
- ancres pour chaque section
- 3 sections
-     2 cards centré
-     css perso
+OK ancres pour chaque section
+OK 3 sections
+OK     2 cards centré
+OK     css perso
 
  minimum 20 commit total
 
 OK Ajouter LeBigSky au projet
 
- navigation bien fonctionnelle
+OK navigation bien fonctionnelle
 
  Bonus : poster le Site
 avec GitHub
